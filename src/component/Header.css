@@ -1,0 +1,7 @@
+.title{
+    flex: 1;
+   color: gold;
+   font-weight: bold;
+   cursor: pointer; 
+   font-family: "Monsterrat";
+}
