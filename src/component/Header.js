@@ -38,7 +38,7 @@ const Header = () => {
               variant="h6"
               marginRight={15}
             >
-              Crypto Hunter
+              Crypto Tracker
             </Typography>
 
             <Select
